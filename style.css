@@ -860,7 +860,7 @@ position: absolute;
 }
 .image-content{
      width: 100%;
-    background-image: url(../images/WhatsApp\ Image\ 2026-01-07\ at\ 10.36.06\ AM.jpeg);
+    background-image: url("images/bg2.jpeg");
     position: relative;
     background-attachment: fixed;
     height: 400px;              
